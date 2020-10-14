@@ -38,7 +38,11 @@ Virtual bots have become handy nowadays by supporting various domains for smooth
 Chatbots are helping many sectors by providing services in the form of information agents by effectively accomplishing tasks.
 
 ## Screenshots
-![Example screenshot]
+**Welcome Image** 
+![image](https://user-images.githubusercontent.com/66255401/95980251-82c87780-0e3a-11eb-973c-9f9203a288bd.png)
+**ChatBot**
+![image](https://user-images.githubusercontent.com/66255401/95980693-29147d00-0e3b-11eb-8b6f-1ba4ddf8926d.png)
+
 
 ## Technologies
 * Watson Studio
