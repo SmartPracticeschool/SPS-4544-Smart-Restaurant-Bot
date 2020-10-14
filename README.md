@@ -52,7 +52,7 @@ Describe how to install / setup your local environement / add link to demo versi
 Project is: _finished_
 
 ## Inspiration
-Add here credits. Project inspired by IBM , based on IBM Cloud Application 
+Credits : Project inspired by IBM , based on IBM Cloud Application 
 
 ## Contact
 Created by [@Francis Cruz](https://sites.google.com/view/ajf013/home) - feel free to contact me!
