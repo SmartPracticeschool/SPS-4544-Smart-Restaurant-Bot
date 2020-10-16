@@ -27,7 +27,6 @@ Features
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -47,10 +46,6 @@ Chatbots are helping many sectors by providing services in the form of informati
 ## Technologies
 * Watson Studio
 * Node-Red Application
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
 
 ## Status
 Project is: _finished_
