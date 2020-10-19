@@ -28,7 +28,7 @@ Features
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Project documentation](#proj-documentation)
+* [Project documentation](#project-documentation)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -52,7 +52,7 @@ Chatbots are helping many sectors by providing services in the form of informati
 Project is: _finished_
 
 ## Project documentation 
-[Pdf file](extension://ohfgljdgelakfkefopgklcohadegdpjf/file:///H:/IBM%20Restuarant%20Bot/Project%20doc.pdf) 
+[Pdf file]() 
 
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
