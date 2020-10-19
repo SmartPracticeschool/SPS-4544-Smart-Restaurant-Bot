@@ -28,6 +28,7 @@ Features
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
+* [Project documentation](#proj doc)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -49,6 +50,8 @@ Chatbots are helping many sectors by providing services in the form of informati
 
 ## Status
 Project is: _finished_
+
+## Project documentation 
 
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
