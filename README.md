@@ -52,6 +52,7 @@ Chatbots are helping many sectors by providing services in the form of informati
 Project is: _finished_
 
 ## Project documentation 
+[Pdf file](extension://ohfgljdgelakfkefopgklcohadegdpjf/file:///H:/IBM%20Restuarant%20Bot/Project%20doc.pdf) 
 
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
