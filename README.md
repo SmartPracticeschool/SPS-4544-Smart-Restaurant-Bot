@@ -28,7 +28,7 @@ Features
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Project documentation](#proj documentation)
+* [Project documentation](#proj-documentation)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
