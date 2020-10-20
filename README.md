@@ -52,7 +52,7 @@ Chatbots are helping many sectors by providing services in the form of informati
 Project is: _finished_
 
 ## Project documentation 
-[Pdf file]() 
+[Pdf file](https://workdrive.zohoexternal.com/writer/open/b0hf006c017d520cd4288b292869fe946ddcf?authId=%7B%22linkId%22%3A%225k2wAp9MmAU-LYmlU%22%7D) 
 
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
