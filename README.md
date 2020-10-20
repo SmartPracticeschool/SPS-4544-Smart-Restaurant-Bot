@@ -51,6 +51,9 @@ Chatbots are helping many sectors by providing services in the form of informati
 ## Status
 Project is: _finished_
 
+## Project Documentation
+* [video](https://drive.google.com/file/d/1RX3JWOf8HIksKNPegmtSKkNMub-WWzA5/view?usp=sharing)
+
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
 
