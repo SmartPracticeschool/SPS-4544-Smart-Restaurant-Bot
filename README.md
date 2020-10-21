@@ -28,7 +28,7 @@ Features
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Project documentation](#project-documentation)
+* [Project details](#project-details)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -51,7 +51,8 @@ Chatbots are helping many sectors by providing services in the form of informati
 ## Status
 Project is: _finished_
 
-## Project Documentation
+## Project Details
+* [Project Document](https://drive.google.com/file/d/1RYu0JED3EtDNN54iryZVxeGIHvyTcPeQ/view?usp=sharing)
 * [video file of the project](https://drive.google.com/file/d/1RX3JWOf8HIksKNPegmtSKkNMub-WWzA5/view?usp=sharing)
 
 ## Inspiration
