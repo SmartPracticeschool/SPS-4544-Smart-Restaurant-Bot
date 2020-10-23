@@ -27,7 +27,7 @@ Features
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Skills Required](skills-required)
+* [Skills Required](#skills-required)
 * [Status](#status)
 * [Project details](#project-details)
 * [Inspiration](#inspiration)
