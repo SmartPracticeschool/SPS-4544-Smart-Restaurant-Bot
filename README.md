@@ -27,6 +27,7 @@ Features
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Skills Required](skills-required)
 * [Status](#status)
 * [Project details](#project-details)
 * [Inspiration](#inspiration)
@@ -48,15 +49,23 @@ Chatbots are helping many sectors by providing services in the form of informati
 * Watson Studio
 * Node-Red Application
 
+## Skills Required
+* IBM Watson
+* Text to speech
+* Speech to Text
+* Android App
+* IBM Watson Assistant
+* IBM Cloudant DB
+
 ## Status
 Project is: _finished_
 
 ## Project Details
-* [Project Document](https://drive.google.com/file/d/1RYu0JED3EtDNN54iryZVxeGIHvyTcPeQ/view?usp=sharing)
+* [Project Document](https://drive.google.com/file/d/1SfbwoCHsYeTLjycHHqo1HVlmpVbaowLb/view?usp=sharing)
 * [video file of the project](https://drive.google.com/file/d/1RX3JWOf8HIksKNPegmtSKkNMub-WWzA5/view?usp=sharing)
 
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
 
 ## Contact
-Created by [@Francis Cruz](https://sites.google.com/view/ajf013/home) - feel free to contact me!
+Created by [@Francis Cruz](https://sites.google.com/view/ajf013/) - feel free to contact me!
