@@ -61,7 +61,7 @@ Chatbots are helping many sectors by providing services in the form of informati
 Project is: _finished_
 
 ## Project Details
-* [Project Document](https://drive.google.com/file/d/1SfbwoCHsYeTLjycHHqo1HVlmpVbaowLb/view?usp=sharing)
+* [Project Document]<a href ="https://drive.google.com/file/d/1SfbwoCHsYeTLjycHHqo1HVlmpVbaowLb/view?usp=sharing" target="_blank"></a>
 * [video file of the project](https://drive.google.com/file/d/1RX3JWOf8HIksKNPegmtSKkNMub-WWzA5/view?usp=sharing)
 
 ## Inspiration
