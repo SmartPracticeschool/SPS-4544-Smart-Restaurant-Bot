@@ -62,7 +62,7 @@ Project is: _finished_
 
 ## Project Details
 * [Project Document](https://drive.google.com/file/d/1SfbwoCHsYeTLjycHHqo1HVlmpVbaowLb/view?usp=sharing)
-* [video file of the project](https://drive.google.com/file/d/1RX3JWOf8HIksKNPegmtSKkNMub-WWzA5/view?usp=sharing)
+* [Project Explanation video](https://drive.google.com/file/d/1RX3JWOf8HIksKNPegmtSKkNMub-WWzA5/view?usp=sharing)
 
 ## Inspiration
 Credits : Project inspired by IBM , based on IBM Cloud Application 
