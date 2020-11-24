@@ -28,6 +28,8 @@ Features
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Skills Required](#skills-required)
+* [Watson Assistant](#watson-assistant)
+* [Node Red App](#node-red-app)
 * [Status](#status)
 * [Project details](#project-details)
 * [Inspiration](#inspiration)
@@ -56,6 +58,12 @@ Chatbots are helping many sectors by providing services in the form of informati
 * Android App
 * IBM Watson Assistant
 * IBM Cloudant DB
+
+## Watson Assistant
+* [Preview Link:](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=031f92cd-cfba-41c1-b47d-644be784cb11&serviceInstanceID=02d8aa5c-37be-476b-82d4-ee5008985001)
+
+## Node Red App
+* [Preview Link:](https://node-red-xqxva-2020-10-10.mybluemix.net/ui)
 
 ## Status
 Project is: _finished_
