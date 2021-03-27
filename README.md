@@ -55,7 +55,6 @@ Chatbots are helping many sectors by providing services in the form of informati
 * IBM Watson
 * Text to speech
 * Speech to Text
-* Android App
 * IBM Watson Assistant
 * IBM Cloudant DB
 
@@ -76,4 +75,4 @@ Project is: _finished_
 Credits : Project inspired by IBM , based on IBM Cloud Application 
 
 ## Contact
-Created by [@Francis Cruz](https://sites.google.com/view/ajf013/) - feel free to contact me!
+Created by [@Francis Cruz](https://myportfolio-526ad.web.app/) - feel free to contact me!
